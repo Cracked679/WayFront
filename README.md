@@ -1,5 +1,3 @@
-# WayFront
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h1 align="center">WayFront</h1>
