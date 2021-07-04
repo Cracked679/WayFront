@@ -10,7 +10,7 @@ Fully responsive Job and Hiring Landing Page designed and hand-coded by me.Chall
 - Topics
   - html5, js, css3, freecodecamp, self-learning, responsive-web-design, fullpagejs
 
-### ScreenShots
+### Preview
 ![alt text](assets/img/rec-min.gif "GIF Image")
 
 <!-- MARKDOWN LINKS & IMAGES -->
